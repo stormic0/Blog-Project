@@ -1,0 +1,4 @@
+Django
+markdown
+psycopg2-binary
+django-taggit
